@@ -7,10 +7,3 @@ color: steelblue;
 text-align: center;
 }
 
-.affinity-img {
-  width: 40%;
-  height: auto;
-  display: block;
-  margin: 0 auto; /* centers it */
-  border-radius: 10px; /* optional: gives rounded corners */
-}
