@@ -7,3 +7,19 @@ color: steelblue;
 text-align: center;
 }
 
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    
+    
+}
+a {
+    text-decoration: none;
+    color: purple;
+}
+.project p
+{
+    text-align: center;
+    margin: 15px;
+}
