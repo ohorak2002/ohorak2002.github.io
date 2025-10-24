@@ -8,10 +8,10 @@ text-align: center;
 }
 
 .project img{
-width: 700px;
-height: 300px;
+width: 1500px;
+height: 500px;
 margin: 10px;
-border: 2px solid rgba(14, 123, 201, 0.664); /* choose a color */
+border: 10px solid rgba(14, 123, 201, 0.664); /* choose a color */
 display: block;
 margin: auto;
 }
