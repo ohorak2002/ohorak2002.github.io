@@ -8,9 +8,9 @@ text-align: center;
 }
 
 .project img{
-width: 800px;
+width: 500px;
 height: 500px;
-margin: 11px;
+margin: 20px;
 border: 10px solid rgba(14, 123, 201, 0.664); /* choose a color */
 display: block;
 margin: auto;
@@ -22,5 +22,5 @@ a {
 .project p
 {
     text-align: center;
-    margin: 30px;
+    margin: 15px;
 }
